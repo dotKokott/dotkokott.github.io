@@ -21,13 +21,15 @@ All of these have free online versions available!
 Jeremy Howard, Sylvain Gugger
 
 
-### [Dive into Deep Learning (2022)](https://d2l.ai/)
-Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
-
-
 ### [Understanding Deep Learning (2025)](https://udlbook.github.io/udlbook/)
 Simon J.D. Prince
 
+[Notebooks](https://github.com/udlbook/udlbook/tree/main/Notebooks)
+
+[Video lectures (Chapter 1-12)](https://www.youtube.com/playlist?list=PLRdABJkXXytCz19PsZ1PCQBKoZGV069k3)
+
+### [Dive into Deep Learning (2022)](https://d2l.ai/)
+Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
 
 ### [Deep Learning with Python - Third Edition (2025)](https://deeplearningwithpython.io)
 François Chollet, Matthew Watson

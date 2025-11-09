@@ -8,8 +8,8 @@ tags:
   - resources
   - ml
 ---
-Curated list of good resources for getting into machine learning.
-If I wanted to get into machine learning today (which I am), I would look into this:
+Curated list of resources for learning about machine learning.
+If I wanted to get into machine learning today (which I am), I would look into these.
 
 The dates refer to when the book / course was last updated.
 

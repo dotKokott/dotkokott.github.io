@@ -8,9 +8,6 @@ tags:
   - resources
   - ml
 ---
-
-# Awesome Machine Learning Resources (November 2025)
-
 Curated list of good resources for getting into machine learning.
 If I wanted to get into machine learning today (which I am), I would look into this:
 

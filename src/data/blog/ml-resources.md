@@ -1,7 +1,7 @@
 ---
 title: "Awesome Machine Learning Resources (November 2025)"
 pubDatetime: 2025-11-09T15:22:00Z
-description: "List of awesome machine learning resources"
+description: "What I would read to get into ML today"
 featured: true
 draft: false
 tags:

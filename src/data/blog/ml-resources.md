@@ -17,7 +17,7 @@ If I wanted to get into machine learning today (which I am), I would look into t
 ## Books
 > The dates refer to when the book / course was last updated
 
-### [Practicel Deep Learning for Coders (2022)](https://course.fast.ai/Lessons/part2.html)
+### [Practical Deep Learning for Coders (2022)](https://course.fast.ai/Lessons/part2.html)
 Jeremy Howard, Sylvain Gugger
 
 Free online version and course available
